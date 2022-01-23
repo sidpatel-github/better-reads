@@ -1,4 +1,4 @@
-package connection;
+package io.sid.connection;
 
 import java.io.File;
 
